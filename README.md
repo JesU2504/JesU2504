@@ -11,8 +11,9 @@ quantum research. I work with Python, JavaScript, C++, SQL, CUDA-Q, and Qiskit.
 
 | Project | What to explore |
 | --- | --- |
+| [Experiment Job Manager](https://github.com/JesU2504/experiment-job-manager) | FastAPI backend with SQL persistence, a separate worker, idempotent submissions, cancellation, retries, lease recovery, and integration tests. |
 | [Venezuela Support Passport](https://github.com/JesU2504/venezuela-support-passport) | Multilingual JavaScript application with Cloudflare REST APIs, SQL storage, receipt review, and supporter passes. |
-| [Generative Quantum Portfolio Optimization](https://github.com/JesU2504/gqe-portfolio-demo) | GQE/CUDA-Q research code, independently generated synthetic problems, exact baselines, and CPU regression checks. |
+| [Generative Quantum Portfolio Optimization](https://github.com/JesU2504/gqe-portfolio-demo) | GPT-style transformer generating candidate quantum circuits in a Python/CUDA-Q portfolio workflow, with synthetic problems, exact baselines, and regression checks. |
 | [Noise-Resistant Quantum Architecture Search](https://github.com/JesU2504/adversarial-quantum-search) | PPO agents for circuit construction and bounded noise attacks, with Cirq simulation and regression checks. |
 | [KI-TWPA modeling](https://github.com/JesU2504/TWPA) | Python workflow connecting HFSS electromagnetic outputs to nonlinear amplifier modeling, with verification and cross-platform CI. |
 
