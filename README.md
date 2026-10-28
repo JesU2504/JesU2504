@@ -12,6 +12,7 @@ quantum research. I work with Python, JavaScript, C++, SQL, CUDA-Q, and Qiskit.
 | Project | What to explore |
 | --- | --- |
 | [Experiment Job Manager](https://github.com/JesU2504/experiment-job-manager) | React/TypeScript dashboard and FastAPI service with SQL persistence, worker leases, cancellation and retries. [Try the public demo](https://experiment-job-manager-jesus.daintyeagle131.chatgpt.site). |
+| [Retail Analytics Pipeline](https://github.com/JesU2504/retail-analytics-pipeline) | Python, DuckDB and dbt ELT with transactional CSV ingestion, incremental order-line updates, a dimensional star schema and tested revenue reporting. |
 | [Venezuela Support Passport](https://github.com/JesU2504/venezuela-support-passport) | Multilingual JavaScript application with Cloudflare REST APIs, SQL storage, receipt review, and supporter passes. |
 | [Generative Quantum Portfolio Optimization](https://github.com/JesU2504/gqe-portfolio-demo) | GPT-style transformer generating candidate quantum circuits in a Python/CUDA-Q portfolio workflow, with synthetic problems, exact baselines, and regression checks. |
 | [Noise-Resistant Quantum Architecture Search](https://github.com/JesU2504/adversarial-quantum-search) | PPO agents for circuit construction and bounded noise attacks, with Cirq simulation and regression checks. |
